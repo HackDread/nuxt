@@ -1,0 +1,28 @@
+{
+  "name": "newnuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^1.0.2",
+    "axios": "^1.6.7",
+    "bootstrap": "^5.3.3",
+    "consola": "^3.2.3",
+    "core-js": "^3.25.3",
+    "fs": "^0.0.1-security",
+    "nuxt": "^3.10.3",
+    "nvm": "^0.0.4",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vuetify": "^2.6.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}
